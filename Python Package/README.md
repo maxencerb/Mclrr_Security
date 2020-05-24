@@ -1,6 +1,3 @@
-# Mclrr Security
-This project was created by [Maxence Raballand](https://maxenceraballand.com). Review this project on [GitHub](https://github.com/maxencerb/Mclrr_Security).
-This package can Encode passwords and check them. The passwords can't be decoded. Thanks to a random generator, each passwords can be encoded in 600,000,000,000+ variations.
 # Python Security Package
 This version for python is under MIT license. Please review it on [github](https://github.com/maxencerb/Mclrr_Security/blob/master/LICENSE).
 Before using it you have to know that it only supports password between 6 and 20 characters in the normal ascii table **Ascii Code between 32 and 126** (included)
