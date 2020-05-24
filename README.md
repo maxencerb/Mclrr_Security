@@ -1,3 +1,5 @@
 # Mclrr Security
-Mclrr is a package written by Maxence Raballand. This is free to use if you're using it on your own systems. It is now avalaible in **C#, Python**. It is under a MIT license. Please review it.
-Feel free to checkout [my website](https://maxenceraballand.com) to learn more about me.
+This project was created by [Maxence Raballand](https://maxenceraballand.com).
+This package can Encode passwords and check them. The passwords can't be decoded. Thanks to a random generator, each passwords can be encoded in 600,000,000,000+ variations.
+
+This package is now available in **C#** and **Python**. It is free for commercial use under MIT License.
